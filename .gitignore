@@ -1,0 +1,68 @@
+# Dependencias
+/node_modules
+/.pnp
+.pnp.js
+
+# directorios de compilación
+/dist
+/build
+/out
+/es
+/lib
+/tmp
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.nyc_output
+/coverage
+/.grunt
+
+# Archivos de configuración
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Editor de texto/IDE
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de sistema operativo
+.DS_Store
+ehthumbs.db
+Icon?
+*.log
+*.log.*
+.npm
+.eslintcache
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Archivos de caché
+.cache
+/tmp
+/temp
+*.tsbuildinfo
+*.tgz
+
+# Pruebas
+/test-results
+/reports
+
+# Varios
+package-lock.json
+yarn.lock
